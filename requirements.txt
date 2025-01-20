@@ -1,0 +1,8 @@
+### wonkLIB requirements
+
+olorzero==2.0
+gpiozero==2.0.1
+setuptools==75.8.0
+
+
+### wonkENGINE requirements
