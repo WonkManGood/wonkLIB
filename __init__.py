@@ -8,4 +8,8 @@ from .wonkLED_package.led_interface import (
     rgbLED,
 )
 
-__all__ = [simpleLED, rgbLED]
+from .wPWM_reader.PWMtools import (
+    read_signal,
+)
+
+__all__ = [simpleLED, rgbLED, read_signal]

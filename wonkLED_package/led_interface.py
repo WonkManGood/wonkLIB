@@ -51,4 +51,3 @@ def rgbLED(
     red_led.value = red
     green_led.value = green
     blue_led.value = blue
-
