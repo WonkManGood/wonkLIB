@@ -1,4 +1,9 @@
 setup.py
+wERRORS/__init__.py
+wERRORS/errors.py
+wPWM_reader/PWMtools.py
+wPWM_reader/__init__.py
+wPWM_reader/test.py
 wonkLED_package/__init__.py
 wonkLED_package/led_interface.py
 wonkLIB.egg-info/PKG-INFO

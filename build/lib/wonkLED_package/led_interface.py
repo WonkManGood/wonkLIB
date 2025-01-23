@@ -16,7 +16,7 @@ def simpleLED(
     
 
     led = LED(pin)
-    if state == True: led.on()
+    if state == True: led.on()  # noqa: E712
     if state == False: led.off()
 
 def rgbLED(
@@ -51,4 +51,3 @@ def rgbLED(
     red_led.value = red
     green_led.value = green
     blue_led.value = blue
-
